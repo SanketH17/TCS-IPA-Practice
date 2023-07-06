@@ -14,10 +14,10 @@ setter and parametrized constructor as required.
 create class courseProgram with main method.
 
 implement two static methods-
-   findAvgOfQuizByAdmin method:this method will take array
-of Course objects and a String  value as input parameters.
+findAvgOfQuizByAdmin method:this method will take array
+of Courses objects and a String  value as input parameters.
 This method will find out Average (as int) of Quiz questions
-for given Course Admin (String parametre passed)
+for given Course Admin (String parameter passed)
 This method will return Average if found.if there is no course
 that matches then the method should return 0.
 
