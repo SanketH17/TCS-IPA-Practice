@@ -1,6 +1,5 @@
 /* IPA 15 */
 /*
-
 Create a class Phone with below attributes: 
 
 phoneId - int 
